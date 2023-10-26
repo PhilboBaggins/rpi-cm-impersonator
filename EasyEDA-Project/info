@@ -1,0 +1,92 @@
+{
+  "uuid": "03c3a13e53914ed232b21e9b94076462",
+  "path": "Offline/RPi%20CM%20impersonator",
+  "name": "RPi CM impersonator",
+  "content": "",
+  "created_at": "2022-02-01 03:39:02",
+  "updated_at": "2023-08-21 05:41:09",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9ac2fb0b4842635c62f3e6e4b8488e77",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a7ab94d5a12140c5bf6077e6924fd79e": 1,
+        "8c95eef853b1473e9539399823e4b359": 1,
+        "912cf4f3c808473891ba32c23d9f1240": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_2x3",
+          1,
+          "HDR-M-2.54_2X3",
+          "J1",
+          {
+            "BOM_Supplier Part": "C65114",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a5b8fff1a45c42f9aa306bafedcb5748",
+            "uuid": "8c95eef853b1473e9539399823e4b359"
+          }
+        ],
+        [
+          "USB-CUI-UJ2-BH-TH",
+          1,
+          "USB-UJ2-BH-1-TH",
+          "J2",
+          {
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Manufacturer Part": "UJ2-BH-1-TH",
+            "BOM_Supplier Part": "102-3999-ND",
+            "BOM_Manufacturer": "CUI Devices",
+            "puuid": "69dfc51946464ac7aacc0a8b4f022bf3",
+            "uuid": "a7ab94d5a12140c5bf6077e6924fd79e"
+          }
+        ]
+      ],
+      "updateTime": 1692560451,
+      "createTime": 1643647154,
+      "histories": [],
+      "created_at": "2022-02-01 03:39:14",
+      "updated_at": "2023-08-21 05:40:51"
+    },
+    {
+      "uuid": "6c43e71b166d9f5a2b130b1742d54a47",
+      "puuid": "03c3a13e53914ed232b21e9b94076462",
+      "title": "PCB_RPi CM impersonator",
+      "filename": "PCB_RPi CM impersonator.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "67da1f46538540fa9495779b28761e74": 1,
+        "69dfc51946464ac7aacc0a8b4f022bf3": 1,
+        "a5b8fff1a45c42f9aa306bafedcb5748": 1
+      },
+      "BOM": [],
+      "updateTime": 1692560469,
+      "createTime": 1692550090,
+      "histories": [],
+      "created_at": "2023-08-21 02:48:10",
+      "updated_at": "2023-08-21 05:41:09"
+    }
+  ],
+  "sort": [],
+  "title": "RPi CM impersonator",
+  "foldername": "RPi CM impersonator",
+  "schfilename": "RPi CM impersonator.json",
+  "schfilemtime": 1692560451262
+}
